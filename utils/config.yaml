@@ -1,0 +1,7 @@
+# Model hyperparameters
+batch_size: 256
+epochs: 30
+learning_rate: 0.001
+gamma: 0.5
+step_size: 10
+ckpt_save_freq: 10
